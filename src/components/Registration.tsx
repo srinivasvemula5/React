@@ -40,12 +40,12 @@ export default function Registration() {
                     src="http://www.ansonika.com/mavia/img/registration_bg.svg"
                     style-ref="width:30%"
                   />
-                  <h2 className="py-3">Registration</h2>
-                  <p>
-                    Tation argumentum et usu, dicit viderer evertitur te has. Eu
-                    dictas concludaturque usu, facete detracto patrioque an per,
-                    lucilius pertinacia eu vel.
-                  </p>
+                  <h2 className="py-3">VIKAS ELECTRONICS</h2>
+                  <h3>
+                  Registration
+                    
+                    
+                  </h3>
                 </div>
               </div>
             </div>
