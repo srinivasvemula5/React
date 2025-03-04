@@ -49,10 +49,26 @@ export default function NavBar() {
                 </a>
               </li> 
               
+
             </ul>
           </div>
         </div>
       </nav>
+      <h5>#AD</h5>
+      <img src="https://bajajdigital-cdn-endpoint.azureedge.net/product/15ba6aa8-6079-4cc0-8b18-8d67097fc14b" className="img-fluid" alt="..."></img>
+      
+      <p><h5>Shop By Brands</h5></p>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16490.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16512.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16523.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16525.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16509.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16496.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16489.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16532.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16518.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/product/BEProduction-16533.png" className="img-fluid" alt="..."></img>
+      <img src="https://cdn.bajajelectronics.com/images/Health-banner-compressed.png" className="img-fluid" alt="..."></img>
     </div>
   );
 }
